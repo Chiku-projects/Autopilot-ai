@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+pytest
+httpx
+pywinauto
+psutil
+pyautogui
+mss
+Pillow
+anthropic
+groq
+playwright
+sounddevice
+scipy
